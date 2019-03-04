@@ -1,0 +1,2 @@
+kushal=10
+manu=2m
